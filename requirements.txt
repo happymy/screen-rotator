@@ -1,0 +1,2 @@
+rotate-screen>=1.0,<2.0
+customtkinter>=5.2,<6.0
